@@ -1,0 +1,67 @@
+-------------------------------------------------------------------------------
+Test set: com.google.Part1Test
+-------------------------------------------------------------------------------
+Tests run: 21, Failures: 0, Errors: 21, Skipped: 0, Time elapsed: 0.109 s <<< FAILURE! - in com.google.Part1Test
+com.google.Part1Test.testStopVideo  Time elapsed: 0.021 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+
+com.google.Part1Test.testPauseAlreadyPausedVideo  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+
+com.google.Part1Test.testPlayRandomVideoStopsPreviousVideo  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+
+com.google.Part1Test.testPlayVideo  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+
+com.google.Part1Test.testPlayRandomVideo  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+
+com.google.Part1Test.testStopVideoTwice  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+
+com.google.Part1Test.testPlayVideoStopPrevious  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+
+com.google.Part1Test.testPauseVideo  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+
+com.google.Part1Test.testShowPlaying  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+
+com.google.Part1Test.testContinueVideoNothingPlaying  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+
+com.google.Part1Test.testContinueVideo  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+
+com.google.Part1Test.testPlayVideoDontStopPreviousIfNonExistent  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+
+com.google.Part1Test.testPauseVideoShowVideo  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+
+com.google.Part1Test.testPauseVideoPlayVideo  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+
+com.google.Part1Test.testContinueVideoNotPaused  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+
+com.google.Part1Test.testPlayVideoNonExistent  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+
+com.google.Part1Test.testNumberOfVideos  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+
+com.google.Part1Test.testShowAllVideos  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+
+com.google.Part1Test.testPauseVideoNothingPlaying  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+
+com.google.Part1Test.testShowNothingPlaying  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+
+com.google.Part1Test.testStopVideoNothingPlaying  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+

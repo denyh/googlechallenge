@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.google.VideoLibraryTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0.007 s <<< FAILURE! - in com.google.VideoLibraryTest
+com.google.VideoLibraryTest.testLibraryParsesTagsCorrectly  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+	at com.google.VideoLibraryTest.setUp(VideoLibraryTest.java:18)
+
+com.google.VideoLibraryTest.testLibraryHasAllVideos  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+	at com.google.VideoLibraryTest.setUp(VideoLibraryTest.java:18)
+
+com.google.VideoLibraryTest.testLibraryParsesVideoCorrectlyWithoutTags  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.Class.getResource(String)" is null
+	at com.google.VideoLibraryTest.setUp(VideoLibraryTest.java:18)
+
